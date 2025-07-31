@@ -1,0 +1,330 @@
+.div {
+    margin: auto;
+}
+
+.head {
+    margin: 10px;
+}
+
+.inbox1 {
+    display: inline-block;
+    /* color: white;
+    font-weight: bold; */
+
+}
+
+.sec2 {
+    background-image: url(brisket3.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+}
+
+.inbox2 {
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+
+}
+
+.sec3 {
+    background-color: black;
+    padding: 20px;
+}
+
+.inbox3 {
+    text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    /* font-weight: bold; */
+}
+
+.sec4 {
+    background-image: url(Titsou-7-1.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+}
+
+.inbox4 {
+    text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.div {
+    background-color: aliceblue;
+    width: 50%;
+    height: 2px;
+    /* margin: auto; */
+
+}
+
+.sec5 {
+    background-image: url(bri5.avif);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+
+}
+
+.inbox5 {
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+
+}
+
+.sec6 {
+    background-image: url(sink.webp);
+    background-size: cover;
+    /* height: 200px; */
+   
+
+}
+
+.inbox6 {
+    text-align: center;
+    /* color: aliceblue; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* font-style: italic; */
+    /* font-weight: bold; */
+    padding-top: 70px;
+
+}
+
+.overlay {
+    background-color: rgba(255, 255, 255, 0.404);
+    padding: 100px 0;
+  
+}
+
+.div1 {
+    background-color: rgb(169, 167, 167);
+    height: 1px;
+    width: 50%;
+   
+}
+
+
+.div-a{
+    background-color: rgb(166, 164, 164);
+    height: 1px;
+    width: 80%;
+  
+}
+.div-1 {
+    background-color: rgb(144, 142, 142);
+    height: 1px;
+    width: 50%;
+    /* margin-right: 300px; */
+}
+.diva{
+    background-color: rgb(135, 132, 132);
+    height: 1px;
+    width: 80%;
+    /* margin-left: 300px; */
+}
+.sec7 {
+    background-image: url(bar2.jpg);
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+}
+
+.inbox7 {
+    text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* font-style: italic; */
+    font-weight: bold;
+}
+
+.div {
+    background-color: aliceblue;
+    width: 50%;
+    height: 2px;
+    /* margin: auto; */
+
+}
+.sec8 {
+    background-image: url(couples2.jpg);
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+}
+
+.inbox8 {
+    text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+.sec9 {
+    background-image: url(family3.jpg);
+  
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.inbox9 {
+    text-align: center;
+    /* color: aliceblue; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* font-style: italic; */
+    /* font-weight: bold; */
+    padding-top: 70px;
+
+}
+.overlay1{
+    background-color: rgba(255, 255, 255, 0.404);
+      padding: 100px 0;
+  
+   
+}
+
+
+
+.div1 {
+    background-color: rgb(169, 167, 167);
+    height: 1px;
+    width: 50%;
+   
+}
+
+
+.div-a{
+    background-color: rgb(166, 164, 164);
+    height: 1px;
+    width: 80%;
+  
+}
+.div-1 {
+    background-color: rgb(144, 142, 142);
+    height: 1px;
+    width: 50%;
+    
+}
+.diva{
+    background-color: rgb(135, 132, 132);
+    height: 1px;
+    width: 80%;
+   
+}
+.sec10 {
+    background-image: url(cutting2.webp);
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+}
+
+.inbox10 {
+    text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* font-style: italic; */
+    font-weight: bold;
+}
+
+.div {
+    background-color: aliceblue;
+    width: 50%;
+    height: 2px;
+    /* margin: auto; */
+
+}
+.section11 {
+   background-color: rgb(61, 53, 53);
+    /* height: 300px; */
+    /* background-size: cover;
+    background-position: center; */
+    padding: 50px 0;
+}
+.inbox-11 {
+    background-image: url(r6.webp);
+    background-size: cover;
+    text-align: center;
+    color: rgb(238, 232, 232);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic; 
+    font-weight: bold;
+    padding: 50px;
+   
+   
+}
+.list{
+    list-style-image: url(arrow.png);
+   
+  
+    
+    
+}
+.list li a{
+  color: rgb(238, 232, 232);
+}
+.inbox-12 {
+   
+ padding-left: 50px;
+    color: rgb(238, 232, 232);
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-weight: bold;
+   
+}
+.inbox-13
+ {
+   
+ padding-left: 50px;
+    color: rgb(238, 232, 232);
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-weight: bold;
+   
+}
+.inbox-14
+ {
+   
+ padding-left: 50px;
+    color: rgb(238, 232, 232);
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-weight: bold;
+   
+}
+.section12{
+       background-color: black;
+       /* height: 300px; */
+       padding: 50px 0;
+}
+.inbox-15
+ {
+   
+    padding-left: 50px;
+    color: rgb(238, 232, 232);
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-weight: bold;
+   
+}
+.inbox-16{
+    text-align: center;
+}
+@media(max-width:768px){
+    .div1,.div-a,.div-1,.diva {
+   margin: auto;
+}
+
+
+}
+   
+   
+
+
